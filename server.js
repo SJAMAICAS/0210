@@ -9,5 +9,5 @@ setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 }, 4 * 60 * 1000);
 
-cmd.run("java -Dnogui=true -jar JMusicBot-0.2.7-Windows.jar");
-// «·—«»ÿ : https://sjamaicas-sjamaicadj.glitch.me
+cmd.run("java -Dnogui=true -jar JMusicBot-0.2.10-Windows.jar");
+// √á√°√ë√á√à√ò : https://sjamaicas-sjamaicadj.glitch.me
